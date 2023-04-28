@@ -33,3 +33,7 @@ As a user:
 =======
   
 >>>>>>> 2e2f56b (updated file with audio)
+
+
+Technologies used:
+- html, css, & javascript
