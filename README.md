@@ -30,7 +30,6 @@ As a user:
   #
 ![spaceman_1](https://user-images.githubusercontent.com/128996101/235067349-c43d1448-ef5c-4b3a-a494-a4bfc9fe5a37.jpg)
 ![spaceman_3](https://user-images.githubusercontent.com/128996101/235067356-81486cb2-d05f-4c31-bcec-56a925303ea2.jpg)
-![spaceman_2](https://user-images.githubusercontent.com/128996101/235067366-5f9a41df-27fd-4188-9417-b82b685cd94f.jpg)
 =======
   
 >>>>>>> 2e2f56b (updated file with audio)
