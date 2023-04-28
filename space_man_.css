@@ -15,6 +15,7 @@ body {
   color:#344883;
   border-color: rgb(31, 31, 33);
   border-style: solid;
+  margin: 2px;
 }
 .btn:hover {
   opacity: .5;
