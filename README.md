@@ -25,6 +25,8 @@ As a user:
     something for the user to listen to while playing
     the game.
   
+Technologies used:
+- html, css, javascript, & logic pro x
 
 <<<<<<< HEAD
   #
@@ -35,5 +37,3 @@ As a user:
 >>>>>>> 2e2f56b (updated file with audio)
 
 
-Technologies used:
-- html, css, & javascript
