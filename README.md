@@ -1,7 +1,7 @@
 The game of Space Man
 
 As a user: 
-  - The display page will hace a picture of a black hole.
+  
   - The user will begin by clicking the possible letters 
     provided.
   - This version of spaceman tracks knowledge of 
