@@ -37,3 +37,62 @@ Technologies used:
 >>>>>>> 2e2f56b (updated file with audio)
 
 
+<<<<<<< HEAD
+=======
+  Technologies used:
+  - HTML
+  - CSS
+  - JavaScript
+  - Logic Pro X
+
+  Link to Deployed Game 
+
+  How to play the Spaceman.
+
+  - The game will begin with the player selects the first letter.
+  - This version of Spaceman consists of a category of countries to select. 
+  - Once the user selects a letter, that letter will gray out and can no longer
+    be chosen again. 
+  - There is a counter of 4 maximum wrong guesses before the game is over.
+  - If the user selects all correct letters making up the country,
+    a message will display saying they have won.
+  
+  Next steps -
+  - Planned future enhancements (icebox items)
+
+    - Add a drop down list of more categories to select from
+    - Add animations to the game.
+  
+
+  Pseudocode
+
+  1. Define required variables
+    - Countries to be chosen from
+    - Maxumum number of wrong guesses
+    - Random word to be generated
+    - Begining number of 0 wrong guesses. 
+    - Check to see if the game has been won or lost
+    - Update the mistakes made by the player
+    - Reset the game when the user decides to. 
+  
+  2. Upon landing the app should
+    - Wait for the user to select the frist letter
+  
+  3. Handle user interaction
+    - User selects letter
+    - Check to see if the correct letter has been choser
+    - If incorrect letter is chosen, wrong guess is displayed
+    - If correct letter is chosen, letter will display
+    - Check to see if the game has been won
+  
+  4. Hand a player clicking Reset button
+    - If player selects the reset button, the game will start over 
+      and any previously selected letters will be in their original state. 
+  
+  5. Allow for the user to hear music
+    - The user can select to play or pause a track below the game
+      and can adjust the volume to the users preference 
+
+
+
+>>>>>>> 8a0a5af (updated README)

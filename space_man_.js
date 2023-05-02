@@ -50,12 +50,10 @@ function handleGuess(chosenLetter) {
   // disables the letter once it has been clicked
   document.getElementById(chosenLetter).setAttribute('disabled', true);
 
-// this if statement checks to see the chosen letter
-// and if the game has been won
-// if game has not been won this will update the
-// updateMistakes function
-// this is also supposed to update the game picture 
-// of the spaceman
+
+
+
+// checks to see the chosen letter and if the game has been won
 // if chosenLetter >= 0, does exist, run the function 
 // so the game updates
 
