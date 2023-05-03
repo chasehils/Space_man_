@@ -28,16 +28,11 @@ As a user:
 Technologies used:
 - html, css, javascript, & logic pro x
 
-<<<<<<< HEAD
   #
 ![spaceman_1](https://user-images.githubusercontent.com/128996101/235067349-c43d1448-ef5c-4b3a-a494-a4bfc9fe5a37.jpg)
 ![spaceman_3](https://user-images.githubusercontent.com/128996101/235067356-81486cb2-d05f-4c31-bcec-56a925303ea2.jpg)
-=======
-  
->>>>>>> 2e2f56b (updated file with audio)
 
-
-<<<<<<< HEAD
+##
 =======
   Technologies used:
   - HTML
@@ -95,4 +90,4 @@ Technologies used:
 
 
 
->>>>>>> 8a0a5af (updated README)
+8a0a5af (updated README)
