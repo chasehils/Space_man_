@@ -53,15 +53,18 @@ Technologies used:
     a message will display saying they have won.
   
   Next steps -
-  - Planned future enhancements (icebox items)
 
+    - Planned future enhancements (icebox items)
+
+    - Update to where Spaceman will appear when incorrect answer is chosen.
     - Add a drop down list of more categories to select from
     - Add animations to the game.
   
 
   Pseudocode
 
-  1. Define required variables
+1. Define required variables
+
     - Countries to be chosen from
     - Maxumum number of wrong guesses
     - Random word to be generated
@@ -70,24 +73,28 @@ Technologies used:
     - Update the mistakes made by the player
     - Reset the game when the user decides to. 
   
-  2. Upon landing the app should
+2. Upon landing the app should
+
     - Wait for the user to select the frist letter
   
-  3. Handle user interaction
+3. Handle user interaction
+
     - User selects letter
     - Check to see if the correct letter has been choser
     - If incorrect letter is chosen, wrong guess is displayed
     - If correct letter is chosen, letter will display
     - Check to see if the game has been won
   
-  4. Hand a player clicking Reset button
+4. Hand a player clicking Reset button
+
     - If player selects the reset button, the game will start over 
       and any previously selected letters will be in their original state. 
   
-  5. Allow for the user to hear music
+5. Allow for the user to hear music
+
     - The user can select to play or pause a track below the game
       and can adjust the volume to the users preference 
 
 
 
-8a0a5af (updated README)
+
